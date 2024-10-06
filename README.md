@@ -3,7 +3,7 @@
 <img align="right" style="vertical-align: top;" width="200" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" />
 - 🔭 I’m currently working on Web2 and Web3 Projects
 
-- 🌱 I’m currently learning **Rust,React-Native**
+- 🌱 I’m currently learning **Rust,React-Native,Postgresql with Prisma and SupaBase**
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 - 📫 How to reach me **ashwin-27104@proton.me**

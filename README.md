@@ -3,7 +3,7 @@
 <img align="right" style="vertical-align: top;" width="200" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" />
 - 🔭 I’m currently working on Web2 and Web3 Projects
 
-- 🌱 Exploring **MOVE** 🧪
+- 🌱 Building Products 🧪
 - Writing smart contracts and comprehensive unit tests in Move and Solidity
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**

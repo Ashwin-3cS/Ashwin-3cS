@@ -7,7 +7,7 @@
 - Writing smart contracts and comprehensive unit tests in Move and Solidity
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
-- 📫 How to reach me **ashwin-27104@proton.me**
+- 📫 How to reach me **ashwin.dev0x@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashwin_2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashwin_2710" height="30" width="40" /></a>

@@ -6,7 +6,7 @@
 - 🌱 Building Products 🧪
 - Writing smart contracts and comprehensive unit tests in Move and Solidity
 
-- 👯 I’m looking to collaborate on **Blockchain Projects**
+- I’m looking to collaborate on **Blockchain Projects**
 - 📫 How to reach me **ashwin.dev0x@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">

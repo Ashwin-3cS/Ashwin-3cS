@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin</h1>
-<h3 align="center">A passionate Full-Stack Blockchain Developer</h3>
+<h3 align="center">Software Engineer</h3>
 <img align="right" style="vertical-align: top;" width="200" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" />
 - 🔭 I’m currently working on Web3 Projects
 
